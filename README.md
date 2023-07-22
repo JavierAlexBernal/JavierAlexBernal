@@ -1,0 +1,9 @@
+- 👋 Hola!!!, Mi nombre es Javier Bernal me consigues como: @JavierAlexBernal, actualmente estoy cursando una maestría en Educación Virtual en la UDENAR, me apasiona la ciencia, la tecnología y la investigación, sígueme en www.jbsoftware.com o twitter.com/jbsoftwarecol
+- 👀 Mis interes son la programación en ASM y C++ IDE para POO o PE como también en Pedagogogía ...
+- 🌱 Me gustaría aprender un poco mas de IA, Machine Learning y Big Data ...
+- 💞️ Te puedo ayudar o ilustar en la ciencias de la computación como el quehacer pedagógico ...
+- 📫 Puedes contactarme al correo contactos@jbsoftware.com.co
+
+<!---
+Copyright© 1997-2023 j@b Software Corporation, powered by j@vier bern@l
+--->
